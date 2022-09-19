@@ -1,4 +1,4 @@
-# Pansformers: Transformer-Based Self-Attention Network for Pansharpening
+# Multi-Patch Self-Attention Network for Pansharpening
 This repository contains code for the paper "Pansformers: Transformer-Based Self-Attention Network for Pansharpening", submitted to the IEEE Geoscience and Remote Sensing Letters.
 
 In this paper, we present a novel architecture called 'Pansformers', inspired from Transformer Networks, for the problem of Pansharpening. We introduce a 'Multi-Patch Attention' mechanims which calculates channel-wise attention on non-overlapping smaller patches of the image to capture local-level details.
